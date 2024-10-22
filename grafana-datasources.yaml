@@ -7,7 +7,9 @@ datasources:
     access: proxy
     orgId: 1
     url: http://prometheus:9090
-    basicAuth: false
+    basicAuth: true
+    basicAuthUser: usrTest
+    basicAuthPassword: Admin123*
     isDefault: true
     version: 1
     editable: false
