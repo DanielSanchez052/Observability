@@ -23,6 +23,5 @@ http_server_config:
   # domain and subdomains over HTTPS.
   # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
   # [ Strict-Transport-Security: <string> ]
-
-basic_auth_users:
-  usrTest: $2b$12$DPp0EQ8Fj7Q.L538gfbdgOA9df5VkYlKIobqv9QXQrabBiEXcvRoO
+# basic_auth_users:
+#   usrTest: $2b$12$DPp0EQ8Fj7Q.L538gfbdgOA9df5VkYlKIobqv9QXQrabBiEXcvRoO
